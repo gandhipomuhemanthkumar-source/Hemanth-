@@ -1,1 +1,2 @@
-# Hemanth-
+# Hemanth-gandhipomu
+Bachelor computer applications 
